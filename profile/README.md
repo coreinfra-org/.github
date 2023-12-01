@@ -33,7 +33,7 @@ There are many ways to configure and run Ansible. This demo serves as a
 sort of "framework" for how one can structure an Ansible directory tree
 with inventory, playbooks, roles, variables, plugins, etc.
 
-* demo-ansible/
+* [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
 
 Containerized App Templates
