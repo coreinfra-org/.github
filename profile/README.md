@@ -13,15 +13,16 @@ patterns for cloud-based development and operations.
 Cloud infra
 -----------
 
-Patterns for organizing Terraform code, building custom images, configuring
+Patterns for organizing Terraform code, building custom VM images, configuring
 networking and access control, and managing the live cloud infra using
 various providers.
 
-* cloud-aws/
-* cloud-gcp/
-* cloud-linode/
-* cloud-ocean/
-* cloud-vultr/
+TODO(SBOSTICK): 2023-12-01 IN-PROGRESS
+* [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
+* [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
+* [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
+* [cloud-ocean](https://github.com/coreinfra-org/cloud-ocean)
+* [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr)
 
 
 Config Management
@@ -42,14 +43,14 @@ These are intended as leverage points for new containerized app development
 environments. The goal is to enable rapid prototyping of a new application
 with a consistent development lifecycle.
 
-* app-base-c
-* app-base-golang
-* app-base-java
-* app-base-nodejs
-* app-base-python
+TODO(SBOSTICK): 2023-12-01 IN-PROGRESS
+* [app-base-c](https://github.com/coreinfra-org/app-base-c)
+* [app-base-golang](https://github.com/coreinfra-org/app-base-golang)
+* [app-base-java](https://github.com/coreinfra-org/app-base-java)
+* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
+* [app-base-python](https://github.com/coreinfra-org/app-base-python)
 
-<!--
-TODO(sbostick):
+TODO(SBOSTICK): 2023-12-01 DEFERRED, CLEANUP NEEDED, DEP: CLOUD-AWS
 * app-flask-auth0
 * app-flask-authlib
 * app-flask-bootstrap
@@ -59,4 +60,3 @@ TODO(sbostick):
 * app-flask-openai
 * app-flask-wiki
 * app-hugo-site
--->
