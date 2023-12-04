@@ -18,19 +18,11 @@ networking and access control, and managing the live cloud infra using
 various providers.
 
 2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (REPOS STILL PRIVATE)
-* cloud-aws
-* cloud-gcp
-* cloud-linode
-* cloud-ocean
-* cloud-vultr
-
-<!--
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
 * [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
 * [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
 * [cloud-ocean](https://github.com/coreinfra-org/cloud-ocean)
 * [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr)
--->
 
 
 Config Management
