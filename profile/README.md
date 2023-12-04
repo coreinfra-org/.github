@@ -57,7 +57,6 @@ with a consistent development lifecycle.
 * [app-base-java](https://github.com/coreinfra-org/app-base-java)
 * [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
 * [app-base-python](https://github.com/coreinfra-org/app-base-python)
-
 * app-flask-auth0
 * app-flask-authlib
 * app-flask-bootstrap
