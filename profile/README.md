@@ -17,12 +17,20 @@ Patterns for organizing Terraform code, building custom VM images, configuring
 networking and access control, and managing the live cloud infra using
 various providers.
 
-TODO(SBOSTICK): 2023-12-01 IN-PROGRESS
+2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (REPOS STILL PRIVATE)
+* cloud-aws
+* cloud-gcp
+* cloud-linode
+* cloud-ocean
+* cloud-vultr
+
+<!--
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
 * [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
 * [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
 * [cloud-ocean](https://github.com/coreinfra-org/cloud-ocean)
 * [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr)
+-->
 
 
 Config Management
@@ -33,6 +41,7 @@ There are many ways to configure and run Ansible. This demo serves as a
 sort of "framework" for how one can structure an Ansible directory tree
 with inventory, playbooks, roles, variables, plugins, etc.
 
+2023-12-04: CONVERSION IN PROGRESS (REPO STILL PRIVATE)
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
 
@@ -43,14 +52,12 @@ These are intended as leverage points for new containerized app development
 environments. The goal is to enable rapid prototyping of a new application
 with a consistent development lifecycle.
 
-TODO(SBOSTICK): 2023-12-01 IN-PROGRESS
 * [app-base-c](https://github.com/coreinfra-org/app-base-c)
 * [app-base-golang](https://github.com/coreinfra-org/app-base-golang)
 * [app-base-java](https://github.com/coreinfra-org/app-base-java)
 * [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
 * [app-base-python](https://github.com/coreinfra-org/app-base-python)
 
-TODO(SBOSTICK): 2023-12-01 DEFERRED, CLEANUP NEEDED, DEP: CLOUD-AWS
 * app-flask-auth0
 * app-flask-authlib
 * app-flask-bootstrap
