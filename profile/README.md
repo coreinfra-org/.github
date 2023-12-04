@@ -45,8 +45,8 @@ with inventory, playbooks, roles, variables, plugins, etc.
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
 
-Containerized App Templates
----------------------------
+Base App Templates
+------------------
 
 These are intended as leverage points for new containerized app development
 environments. The goal is to enable rapid prototyping of a new application
@@ -57,6 +57,11 @@ with a consistent development lifecycle.
 * [app-base-java](https://github.com/coreinfra-org/app-base-java)
 * [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
 * [app-base-python](https://github.com/coreinfra-org/app-base-python)
+
+
+Demo App Templates
+------------------
+
 * app-flask-auth0
 * app-flask-authlib
 * app-flask-bootstrap
