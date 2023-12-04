@@ -31,9 +31,10 @@ Config Management
 An example config structure and demo of the key features of Ansible.
 There are many ways to configure and run Ansible.
 
-This repo shows one way to manage configuration for inventory, playbooks,
-roles, variables, plugins, etc. The live demo depends on cloud resources in
-AWS and other cloud environments.
+This repo demonstrates one strategy for organizing the configuration related
+to Ansible inventory, playbooks, roles, variables, plugins, etc. The live demo
+currently (2023-12-04) depends on cloud resources in AWS -- for example VM
+instances with particular tags.
 
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
