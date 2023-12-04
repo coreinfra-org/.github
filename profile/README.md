@@ -10,8 +10,8 @@ learning and experimentation. Along the way I sought to capture reusable
 patterns for cloud-based development and operations.
 
 
-Cloud IaC
----------
+Cloud Infra
+-----------
 
 Patterns for organizing Terraform code, building custom VM images, configuring
 networking and access control, and managing the live cloud infra using
