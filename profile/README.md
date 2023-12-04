@@ -29,9 +29,11 @@ Config Management
 -----------------
 
 An example config structure and demo of the key features of Ansible.
-There are many ways to configure and run Ansible. This demo serves as a
-sort of "framework" for how one can structure an Ansible directory tree
-with inventory, playbooks, roles, variables, plugins, etc.
+There are many ways to configure and run Ansible.
+
+This demo shows one way to manage configuration for inventory, playbooks,
+roles, variables, plugins, etc. The live demo depends on cloud resources in
+AWS and other cloud environments.
 
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
