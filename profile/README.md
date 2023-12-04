@@ -17,7 +17,7 @@ Patterns for organizing Terraform code, building custom VM images, configuring
 networking and access control, and managing the live cloud infra using
 various providers.
 
-2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (REPOS STILL PRIVATE)
+2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (PRIVATE REPOS)
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
 * [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
 * [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
@@ -33,7 +33,7 @@ There are many ways to configure and run Ansible. This demo serves as a
 sort of "framework" for how one can structure an Ansible directory tree
 with inventory, playbooks, roles, variables, plugins, etc.
 
-2023-12-04: CLEANUP IN PROGRESS (REPO STILL PRIVATE)
+2023-12-04: CLEANUP IN PROGRESS (PRIVATE REPO)
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
 
