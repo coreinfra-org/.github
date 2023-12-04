@@ -33,7 +33,7 @@ There are many ways to configure and run Ansible. This demo serves as a
 sort of "framework" for how one can structure an Ansible directory tree
 with inventory, playbooks, roles, variables, plugins, etc.
 
-2023-12-04: CONVERSION IN PROGRESS (REPO STILL PRIVATE)
+2023-12-04: CLEANUP IN PROGRESS (REPO STILL PRIVATE)
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
 
