@@ -32,10 +32,13 @@ Demonstrates:
 Config Management
 -----------------
 
-* Demonstrate key feature of Ansible
-* Demonstrate how to organize Ansible playbooks, inventory, roles, vars, etc
-* The live demo currently (2023-12-04) depends on cloud resources in AWS
-  (for example VM instances with particular tags)
+Demonstrates:
+* Ansible key features
+* Organization of Ansible playbooks, inventory, roles, vars, etc
+* Invocation methods
+
+Note that the demo currently (2023-12-04) depends on AWS cloud resources such
+as VM instances having specific tags.
 
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
