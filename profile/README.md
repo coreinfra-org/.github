@@ -1,9 +1,10 @@
 Overview
 --------
 
-This github org hosts templates for bootstrapping cloud infra projects,
-including terraform models for core infra components, containerized application
-build/deploy templates, and examples for system configuration management.
+* Templates for bootstrapping cloud infra projects
+* Terraform resource models for core infra components
+* Containerized app build/deploy templates
+* Config management examples
 
 The original goal was a personal cloud development environment for
 learning and experimentation. Along the way I sought to capture reusable
@@ -13,11 +14,12 @@ patterns for cloud-based development and operations.
 Cloud Infra
 -----------
 
-Patterns for organizing Terraform code, building custom VM images, configuring
-networking and access control, and managing the live cloud infra using
-various providers.
+* Terraform code organization
+* Custom VM images
+* Netowrking and IAM
+* Live infrastructure ops
 
-2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (PRIVATE REPOS)
+2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (PRIVATE)
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
 * [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
 * [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
@@ -28,23 +30,16 @@ various providers.
 Config Management
 -----------------
 
-An example config structure and demo of the key features of Ansible.
-There are many ways to configure and run Ansible.
-
-This repo demonstrates one strategy for organizing the configuration related
-to Ansible inventory, playbooks, roles, variables, plugins, etc. The live demo
-currently (2023-12-04) depends on cloud resources in AWS -- for example VM
-instances with particular tags.
+* Demonstrate key feature of Ansible
+* Demonstrate how to organize Ansible playbooks, inventory, roles, vars, etc
+* The live demo currently (2023-12-04) depends on cloud resources in AWS
+  (for example VM instances with particular tags)
 
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
 
 
 Base App Templates
 ------------------
-
-These are intended as leverage points for new containerized app development
-environments. The goal is to enable rapid prototyping of a new application
-with a consistent development lifecycle.
 
 * [app-base-c](https://github.com/coreinfra-org/app-base-c)
 * [app-base-golang](https://github.com/coreinfra-org/app-base-golang)
