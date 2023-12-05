@@ -2,7 +2,7 @@ Overview
 --------
 
 * Terraform resource models for bootstrapping core infra
-* Containerized app templates and build/deploy examples
+* App templates and build/deploy examples
 * Config management examples
 
 The original goal was a personal cloud development environment for
