@@ -1,8 +1,8 @@
 Overview
 --------
 
-* Core infra Terraform examples
-* App templates and build/deploy examples
+* Terraform examples
+* App build/deploy templates
 * Config management examples
 
 The original goal was a personal cloud development environment for
@@ -13,12 +13,15 @@ patterns for cloud-based development and operations.
 Cloud Infra
 -----------
 
+Demonstrates:
 * Terraform code organization
+* Networking and IAM
+* DNS management
 * Custom VM images
-* Netowrking and IAM
-* Live infrastructure ops
+* Infra Ops
+* Observability patterns
 
-2023-12-04: DEMO ENVIRONMENTS CONVERSION IN PROGRESS (PRIVATE)
+2023-12-04: MIGRATION IN PROGRESS (PRIVATE)
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
 * [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
 * [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
