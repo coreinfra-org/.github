@@ -13,7 +13,7 @@ patterns for cloud-based development and operations.
 Cloud Infra
 -----------
 
-Demonstrates:
+### Demonstrates
 * Terraform code organization
 * Networking and IAM
 * DNS management
@@ -32,7 +32,7 @@ Demonstrates:
 Config Management
 -----------------
 
-Demonstrates:
+### Demonstrates
 * Ansible key features
 * Organization of Ansible playbooks, inventory, roles, vars, etc
 * Invocation methods
