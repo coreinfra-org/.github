@@ -1,7 +1,7 @@
 Overview
 --------
 
-* Terraform resource models for bootstrapping core infra
+* Cloud infra Terraform examples
 * App templates and build/deploy examples
 * Config management examples
 
