@@ -1,7 +1,7 @@
 Overview
 --------
 
-* Cloud infra Terraform examples
+* Core infra Terraform examples
 * App templates and build/deploy examples
 * Config management examples
 
