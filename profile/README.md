@@ -24,24 +24,15 @@ Custom VM images, Infra Ops, Observability patterns.
 * [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr) (private)
 
 
-Config Management
------------------
-
-Demonstrates Ansible key features, organization of Ansible playbooks,
-inventory, roles, vars, etc.
-
-* [demo-ansible](https://github.com/coreinfra-org/demo-ansible)
-
-
 Base App Templates
 ------------------
 
 * [base-image](https://github.com/coreinfra-org/base-image)
-* [app-base-c](https://github.com/coreinfra-org/app-base-c) (private)
-* [app-base-golang](https://github.com/coreinfra-org/app-base-golang) (private)
-* [app-base-java](https://github.com/coreinfra-org/app-base-java) (private)
-* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs) (private)
-* [app-base-python](https://github.com/coreinfra-org/app-base-python) (private)
+* [app-base-c](https://github.com/coreinfra-org/app-base-c)
+* [app-base-golang](https://github.com/coreinfra-org/app-base-golang)
+* [app-base-java](https://github.com/coreinfra-org/app-base-java)
+* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
+* [app-base-python](https://github.com/coreinfra-org/app-base-python)
 
 
 Demo App Templates
@@ -57,6 +48,15 @@ Demo App Templates
 * [app-flask-wiki](https://github.com/coreinfra-org/app-flask-wiki) (private)
 * [app-hugo-site](https://github.com/coreinfra-org/app-hugo-site) (private)
 * [demo-apps/](https://github.com/coreinfra-org/demo-apps)
+
+
+Config Management
+-----------------
+
+Demonstrates Ansible key features, organization of Ansible playbooks,
+inventory, roles, vars, etc.
+
+* [demo-ansible](https://github.com/coreinfra-org/demo-ansible) (private)
 
 
 Misc
