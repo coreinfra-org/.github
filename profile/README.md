@@ -47,7 +47,7 @@ Demo App Templates
 * [app-flask-openai](https://github.com/coreinfra-org/app-flask-openai) (private)
 * [app-flask-wiki](https://github.com/coreinfra-org/app-flask-wiki) (private)
 * [app-hugo-site](https://github.com/coreinfra-org/app-hugo-site) (private)
-* [demo-apps/](https://github.com/coreinfra-org/demo-apps)
+* [demo-apps](https://github.com/coreinfra-org/demo-apps)
 
 
 Config Management
@@ -62,6 +62,6 @@ inventory, roles, vars, etc.
 Misc
 ----
 
-* [cron-jobs/](https://github.com/coreinfra-org/cron-jobs) (private)
-* [ops-toolbox/](https://github.com/coreinfra-org/ops-toolbox) (private)
-* [scm-repos/](https://github.com/coreinfra-org/scm-repos) (private)
+* [cron-jobs](https://github.com/coreinfra-org/cron-jobs) (private)
+* [ops-toolbox](https://github.com/coreinfra-org/ops-toolbox) (private)
+* [scm-repos](https://github.com/coreinfra-org/scm-repos) (private)
