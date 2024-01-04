@@ -16,14 +16,12 @@ Cloud Infra
 Demonstrates Terraform code organization, Networking and IAM, DNS management,
 Custom VM images, Infra Ops, Observability patterns.
 
-_2023-12-04: MIGRATION IN PROGRESS (PRIVATE)_
-
 ### Repositories
-* [cloud-aws](https://github.com/coreinfra-org/cloud-aws)
-* [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp)
-* [cloud-linode](https://github.com/coreinfra-org/cloud-linode)
-* [cloud-ocean](https://github.com/coreinfra-org/cloud-ocean)
-* [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr)
+* [cloud-aws](https://github.com/coreinfra-org/cloud-aws) (private)
+* [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp) (private)
+* [cloud-linode](https://github.com/coreinfra-org/cloud-linode) (private)
+* [cloud-ocean](https://github.com/coreinfra-org/cloud-ocean) (private)
+* [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr) (private)
 
 
 Config Management
@@ -38,11 +36,12 @@ inventory, roles, vars, etc.
 Base App Templates
 ------------------
 
-* [app-base-c](https://github.com/coreinfra-org/app-base-c)
-* [app-base-golang](https://github.com/coreinfra-org/app-base-golang)
-* [app-base-java](https://github.com/coreinfra-org/app-base-java)
-* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
-* [app-base-python](https://github.com/coreinfra-org/app-base-python)
+* [base-image](https://github.com/coreinfra-org/base-image)
+* [app-base-c](https://github.com/coreinfra-org/app-base-c) (private)
+* [app-base-golang](https://github.com/coreinfra-org/app-base-golang) (private)
+* [app-base-java](https://github.com/coreinfra-org/app-base-java) (private)
+* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs) (private)
+* [app-base-python](https://github.com/coreinfra-org/app-base-python) (private)
 
 
 Demo App Templates
