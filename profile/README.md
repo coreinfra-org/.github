@@ -47,12 +47,12 @@ Base App Templates
 Demo App Templates
 ------------------
 
-* app-flask-auth0
-* app-flask-authlib
-* app-flask-bootstrap
-* app-flask-golinks
-* app-flask-ipaddr
-* app-flask-multitest
-* app-flask-openai
-* app-flask-wiki
-* app-hugo-site
+* [app-flask-auth0](https://github.com/coreinfra-org/app-flask-auth0) (private)
+* [app-flask-authlib](https://github.com/coreinfra-org/app-flask-authlib) (private)
+* [app-flask-bootstrap](https://github.com/coreinfra-org/app-flask-bootstrap) (private)
+* [app-flask-golinks](https://github.com/coreinfra-org/app-flask-golinks) (private)
+* [app-flask-ipaddr](https://github.com/coreinfra-org/app-flask-ipaddr) (private)
+* [app-flask-multitest](https://github.com/coreinfra-org/app-flask-multitest) (private)
+* [app-flask-openai](https://github.com/coreinfra-org/app-flask-openai) (private)
+* [app-flask-wiki](https://github.com/coreinfra-org/app-flask-wiki) (private)
+* [app-hugo-site](https://github.com/coreinfra-org/app-hugo-site) (private)
