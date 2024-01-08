@@ -28,11 +28,11 @@ Base App Templates
 ------------------
 
 * [base-image](https://github.com/coreinfra-org/base-image)
-* [app-base-c](https://github.com/coreinfra-org/app-base-c)
-* [app-base-golang](https://github.com/coreinfra-org/app-base-golang)
-* [app-base-java](https://github.com/coreinfra-org/app-base-java)
-* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs)
-* [app-base-python](https://github.com/coreinfra-org/app-base-python)
+* [app-base-c](https://github.com/coreinfra-org/app-base-c) (private)
+* [app-base-golang](https://github.com/coreinfra-org/app-base-golang) (private)
+* [app-base-java](https://github.com/coreinfra-org/app-base-java) (private)
+* [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs) (private)
+* [app-base-python](https://github.com/coreinfra-org/app-base-python) (private)
 
 
 Demo App Templates
