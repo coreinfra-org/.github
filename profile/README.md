@@ -33,6 +33,7 @@ Base App Templates
 * [app-base-java](https://github.com/coreinfra-org/app-base-java) (private)
 * [app-base-nodejs](https://github.com/coreinfra-org/app-base-nodejs) (private)
 * [app-base-python](https://github.com/coreinfra-org/app-base-python) (private)
+* [app-base-sh](https://github.com/coreinfra-org/app-base-sh) (private)
 
 
 Demo App Templates
