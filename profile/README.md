@@ -13,7 +13,7 @@ patterns for cloud-based development and operations.
 Cloud Infra
 -----------
 
-Demonstrates Terraform code organization, Networking and IAM, DNS management,
+Terraform code organization, Networking and IAM, DNS management,
 Custom VM images, Infra Ops, Observability patterns.
 
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws) (private)
@@ -52,8 +52,7 @@ Demo App Templates
 Config Management
 -----------------
 
-Demonstrates Ansible key features, organization of Ansible playbooks,
-inventory, roles, vars, etc.
+Ansible key features, organization, inventory, roles, vars, etc.
 
 * [demo-ansible](https://github.com/coreinfra-org/demo-ansible) (private)
 
