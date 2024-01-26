@@ -16,13 +16,11 @@ Cloud Infra
 Demonstrates Terraform code organization, Networking and IAM, DNS management,
 Custom VM images, Infra Ops, Observability patterns.
 
-### Repositories
 * [cloud-aws](https://github.com/coreinfra-org/cloud-aws) (private)
 * [cloud-gcp](https://github.com/coreinfra-org/cloud-gcp) (private)
 * [cloud-linode](https://github.com/coreinfra-org/cloud-linode) (private)
 * [cloud-ocean](https://github.com/coreinfra-org/cloud-ocean) (private)
 * [cloud-vultr](https://github.com/coreinfra-org/cloud-vultr) (private)
-
 
 Base App Templates
 ------------------
@@ -66,3 +64,4 @@ Misc
 * [cron-jobs](https://github.com/coreinfra-org/cron-jobs) (private)
 * [ops-toolbox](https://github.com/coreinfra-org/ops-toolbox) (private)
 * [scm-repos](https://github.com/coreinfra-org/scm-repos) (private)
+* [doc-internal](https://github.com/coreinfra-org/doc-internal/) (private)
